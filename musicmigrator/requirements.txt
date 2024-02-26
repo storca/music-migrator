@@ -1,0 +1,4 @@
+dotenv
+colorama
+deezer-python
+spotipy
